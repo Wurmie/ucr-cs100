@@ -1,1 +1,7 @@
-/ 100
+30 / 100
+
+no test cases on:
+-5: >10 of params
+-5: running command on /bin
+-35: connectors
+
