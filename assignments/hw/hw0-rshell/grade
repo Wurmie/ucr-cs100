@@ -1,7 +1,9 @@
-30 / 100
+33 / 100
 
 no test cases on:
 -5: >10 of params
--5: running command on /bin
+-2: running command on /bin
+-5: spaces between params
 -35: connectors
-
+-15: exit with params, exit as a param to another command, exit in a chain of commands
+-10: comment on a line by itself, comment where '#' touches something else
