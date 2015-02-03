@@ -1,4 +1,4 @@
-43 / 100
+73 / 100
 
 +10 extra
 
@@ -9,3 +9,6 @@ no test cases on:
 -35: connectors
 -15: exit with params, exit as a param to another command, exit in a chain of commands
 -10: comment on a line by itself, comment where '#' touches something else
+
++30 connectors regrade in office hours
+
