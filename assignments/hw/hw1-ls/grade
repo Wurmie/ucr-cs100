@@ -1,2 +1,5 @@
-/ 100
+85 / 100
+
+-10: Passing file parameters yields an error
+-5: No test of ls without parameters
 
