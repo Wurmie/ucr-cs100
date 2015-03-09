@@ -4,7 +4,7 @@ Install Linux on your personal desktop/laptop computer.
 I personally use the [Debian](http://www.debian.org/) and [Slackware](http://slackware.com) distributions, but you're free to choose whatever distribution you like.
 The lab machines use [CentOS](http://www.centos.org).
 
-There are two ways you can install Linux.
+There are two ways youjwgskiioSAGFOS can install Linux.
 The first is as a dual boot operating system.
 Every Linux distribution's installer will walk you through how to do this.
 But be careful!
